@@ -5,6 +5,7 @@ import com.example.StartApp.di.AppComponent
 import com.example.StartApp.di.AppModule
 import com.example.StartApp.di.DaggerAppComponent
 
+//that
 
 class App:Application() {
 
